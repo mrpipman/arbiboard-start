@@ -1,0 +1,1 @@
+export const MARGIN_THRESHOLD = 2.5;

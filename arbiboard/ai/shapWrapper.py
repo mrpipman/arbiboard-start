@@ -1,0 +1,1 @@
+def explain(prediction): return {'feature1': 0.4, 'feature2': -0.2}

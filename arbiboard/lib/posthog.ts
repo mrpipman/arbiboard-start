@@ -1,0 +1,1 @@
+export const initPosthog = () => console.log("PostHog initialized");

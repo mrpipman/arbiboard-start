@@ -1,0 +1,1 @@
+export const Leaderboard = () => <div>Top Users</div>;

@@ -1,0 +1,1 @@
+import { StepCard } from './StepCard'; const OnboardingLayout = () => <div>Walkthrough</div>; export default OnboardingLayout;

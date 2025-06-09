@@ -1,0 +1,1 @@
+def generate_explanation(input_data): return 'This prediction is influenced by...'

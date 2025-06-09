@@ -1,0 +1,1 @@
+export default function handler(req, res) { res.json({ prediction: 0.75 }); }

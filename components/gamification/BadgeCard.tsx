@@ -1,0 +1,1 @@
+export const BadgeCard = ({ badge }) => <div>{badge.name}</div>;

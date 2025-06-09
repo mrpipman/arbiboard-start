@@ -1,0 +1,8 @@
+{
+  "quote": {
+    "title": "Odds Comparison",
+    "selectBookie": "Select Bookmaker",
+    "selectBookiePlaceholder": "Choose a bookmaker",
+    "odds": "Odds from"
+  }
+}

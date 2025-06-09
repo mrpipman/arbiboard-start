@@ -1,0 +1,1 @@
+// Placeholder for CloudSyncManager.ts - Implemented in full version

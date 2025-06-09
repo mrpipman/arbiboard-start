@@ -1,0 +1,1 @@
+export function calculateROI(odds1, odds2) { return (1/odds1 + 1/odds2 - 1) * 100; }

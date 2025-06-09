@@ -1,0 +1,1 @@
+// Placeholder for useEIP712.ts

@@ -1,0 +1,1 @@
+def generate_prompt(data): return "Explain: " + str(data)

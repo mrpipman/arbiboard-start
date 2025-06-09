@@ -1,0 +1,1 @@
+const StepCard = ({ step }) => <div>{step.title}</div>; export { StepCard };
