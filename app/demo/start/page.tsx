@@ -1,5 +1,3 @@
-// DEMO ENTRY POINT UI
-
 'use client';
 
 import { useEffect } from 'react';
@@ -20,9 +18,9 @@ export default function DemoStartPage() {
   }, []);
 
   return (
-    <div className="p-4 text-center text-gray-700">
-      <h1 className="text-xl font-semibold mb-4">Loading demo UI...</h1>
-      <p>This demo will redirect you to a full Arbiboard Start experience.</p>
+    <div className="p-8 text-center text-gray-800">
+      <h1 className="text-2xl font-semibold mb-4">Loading Arbiboard Start Demo...</h1>
+      <p className="text-sm">Redirecting to the full dashboard view.</p>
     </div>
   );
 }
