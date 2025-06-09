@@ -1,10 +1,9 @@
-const path = require('path');
-
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   reactStrictMode: true,
-  webpack(config) {
-    config.resolve.alias['@'] = path.resolve(__dirname);
-    config.resolve.alias['@shared'] = path.resolve(__dirname, '../shared');
-    return config;
+  experimental: {
+    appDir: true, // ← NECESSARIO per usare la directory /app/
   },
 };
+
+module.exports = nextConfig;
